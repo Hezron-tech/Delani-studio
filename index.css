@@ -7,6 +7,7 @@ font-family: 'Poppins', sans-serif;
     background-repeat: no-repeat;
     background-size: cover;
     height: 1000px;
+    background-position: center;
 }
 .logo{
 text-align: center;
@@ -26,4 +27,18 @@ padding-top:  300px;
     color: white;
     text-align: center;
     font-size: 12px;
+}
+.pic{
+    text-align: center;
+    padding-top: 15%;
+}
+.about{
+    padding-top: 2%;
+    font-size: 20px;
+
+}
+.about >p{
+    text-align: center;
+    line-height: 50px;
+
 }
