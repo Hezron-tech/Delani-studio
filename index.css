@@ -1,7 +1,29 @@
-
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
 .head{
     background-image: url(images/assets/backgrounds/h_img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 700px;
+    height: 1000px;
+}
+.logo{
+text-align: center;
+padding-top:  300px;
+}
+.welcome{
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+}
+.del{
+    color: white;
+    text-align: center;
+    padding-top: 1%;
+}
+.head >p{
+    color: white;
+    text-align: center;
+    font-size: 12px;
 }
