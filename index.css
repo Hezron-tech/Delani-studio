@@ -49,10 +49,18 @@ padding-top:  300px;
     background-size: cover;
     background-position: center;
     color: white;
+margin-top: 5%;
 }
 .services >h1{
     padding-top: 5%;
 }
 .services >p{
     line-height: 40px; 
+}
+.what-we-do{
+    margin-top: 2%;
+}
+.what-we-do >h1{
+    text-align: center;
+    padding-bottom: 2%;
 }
