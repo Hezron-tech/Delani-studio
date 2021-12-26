@@ -79,5 +79,37 @@ margin-top: 5%;
    margin-bottom: 2%;
    margin: 6%;
 }
+.black{
+    display: none;
+}
+.studio{
+    display: none;
+}
 
+.pyramids{
+    display: none;
+}
 
+.jim{
+    display: none;
+}
+
+.day{
+    display: none;
+}
+
+.calc{
+    display: none;
+}
+
+.burn{
+    display: none;
+}
+
+.bailey{
+    display: none;
+}
+
+.port2{
+    margin-top: 2%;
+}
