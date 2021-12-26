@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $(".design-image") .click(function(){
-        $(".Design-para") .slideUp();  
-        $(".Design-para") .show(); 
+        $(".Design-para") .slideToggle();  
+        $(".Design-para") .slideUp(); 
     })
     
 });
