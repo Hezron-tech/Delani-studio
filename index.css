@@ -128,3 +128,10 @@ margin-top: 5%;
       color: white;
       padding-top: 2%;
   }
+.socials{
+    
+    margin: 3%;
+}
+.socials >img{
+    padding: 6px;
+}
