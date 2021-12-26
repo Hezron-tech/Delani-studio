@@ -79,6 +79,10 @@ margin-top: 5%;
    margin-bottom: 2%;
    margin: 6%;
 }
+
+.port{
+    padding: 20px;
+}
 .black{
     display: none;
 }
@@ -113,3 +117,14 @@ margin-top: 5%;
 .port2{
     margin-top: 2%;
 }
+.contact{
+    background-image: url(images/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+  .contact >h2{
+      color: white;
+      padding-top: 2%;
+  }
