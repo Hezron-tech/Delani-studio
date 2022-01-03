@@ -25,3 +25,9 @@ $(document).ready(function(){
             $(".pro-image") .hide();
             })
             });  
+
+            $(document).ready(function(){
+                $(".work1").hover(function(){
+                $(".black").slideToggle("slow")
+                })
+            });
