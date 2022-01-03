@@ -135,3 +135,17 @@ margin-top: 5%;
 .socials >img{
     padding: 6px;
 }
+.form{
+    background-color: none;
+}
+
+#submit{
+	background-color:none;
+	border: 2px solid #fff;
+	margin-left: 3%;
+	border-radius: 4px;
+	padding: 0 1.5rem;
+	color: #fff;
+	
+	
+}
